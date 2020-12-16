@@ -1,3 +1,3 @@
 # HELLO IT
 
-GIT PRACTICE ~ !
+GIT PRACTICE ~ ! Hello ~ !
